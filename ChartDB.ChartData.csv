@@ -1,0 +1,2 @@
+_id,Labels[0],Labels[1],Labels[2],Datasets[0]._id,Datasets[1]._id,Datasets[0].LabelName,Datasets[1].LabelName,Datasets[0].Data[0],Datasets[0].Data[1],Datasets[0].Data[2],Datasets[1].Data[0],Datasets[1].Data[1],Datasets[1].Data[2],Datasets[0].BackgroundColor,Datasets[1].BackgroundColor
+65eca687057aa7e3673131d1,January,February,March,1,2,Sales,Expenses,100,200,150,50,80,70,#ff6384,#36a2eb

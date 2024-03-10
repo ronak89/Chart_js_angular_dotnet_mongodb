@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65eca687057aa7e3673131d1"
+  },
+  "Labels": [
+    "January",
+    "February",
+    "March"
+  ],
+  "Datasets": [
+    {
+      "_id": 1,
+      "LabelName": "Sales",
+      "Data": [
+        100,
+        200,
+        150
+      ],
+      "BackgroundColor": "#ff6384"
+    },
+    {
+      "_id": 2,
+      "LabelName": "Expenses",
+      "Data": [
+        50,
+        80,
+        70
+      ],
+      "BackgroundColor": "#36a2eb"
+    }
+  ]
+}]
